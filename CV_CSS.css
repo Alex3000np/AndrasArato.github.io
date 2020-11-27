@@ -1,0 +1,68 @@
+ 
+    /*header background image*/
+header {
+height: 298px;
+width: 1000px;}
+
+header {background-image: url(assets/header%20harold%20final.png);
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+    /*header background text*/
+header>hgroup {
+font-family: Sybarite;
+padding-top: 120px;
+padding-left: 13%;    
+margin-left: auto;
+margin-right: auto;
+}
+header>hgroup>h1 {
+    padding-left: 5%;
+    margin-top: 1px;
+    font-size: 60px;
+}
+header>hgroup>h3 {
+    padding-left: 5%;
+    margin-bottom: 1px;
+    font-size: 30px;
+}
+
+    /*Main Text*/
+main {
+    /*border: solid 1px;*/
+    margin: auto;
+    width: 45%;
+    margin-bottom: 30px;
+}
+main>section>p { 
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 5%;
+    /*margin: 0px 10%;*/
+}
+
+    /*Main List*/
+section>ul {
+    /*border: solid 1px;*/
+    padding-left: 10%;
+    margin: auto;
+    max-width: 45%;
+    margin-bottom: 60px;
+}
+
+    /*Quote*/
+section>blockquote {
+    color: white;
+    font-family: Sybarite;
+    font-size: 25px;
+    margin: auto;
+    padding-left: 10px;
+    width: 40%;
+    background-color: #444444;
+    
+}
+section>blockquote>h1 {}
+    
+    .quoteA {margin: 1px;}    
